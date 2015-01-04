@@ -1,0 +1,18 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "config": "*",
+    "express": "3.2.6",
+    "express-handlebars": "^1.1.0",
+    "handlebars": "^2.0.0",
+    "underscore": "*",
+    "async": "*",
+    "restify": "*",
+    "swag": "^0.7.0"
+  }
+}

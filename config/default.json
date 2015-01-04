@@ -1,0 +1,10 @@
+{
+    "settings":{
+        "appName": "The Winning App",
+        "appPort": "3000"
+
+    },
+    "service":{
+        "vip": "http://localhost:12345"
+    }
+}
